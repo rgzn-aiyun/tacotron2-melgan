@@ -52,7 +52,7 @@ and the Mel decoder were trained on the same mel-spectrogram representation.
 
 
 ## Related repos
-[WaveGlow](https://github.com/rgzn-aiyun/melgan-cpu) Faster than real time Flow-based
+[melgan-cpu](https://github.com/rgzn-aiyun/melgan-cpu) Faster than real time Flow-based
 Generative Network for Speech Synthesis
 
 
